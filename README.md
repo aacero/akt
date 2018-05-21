@@ -1,6 +1,8 @@
 APL Keyboard Translator
 =======================
 
+*REPO STATUS: Inactive*
+
 The `akt` program generates keyboard input suitable for GNU APL and for
 editing APL code using a Unicode-capable text editor (e.g. vim).
 
